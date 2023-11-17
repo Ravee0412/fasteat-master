@@ -1,3 +1,4 @@
+
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/fasteat)
@@ -13,7 +14,7 @@
 
   Fasteat is a fully responsive food delivery website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/fasteat/"><strong>➥ Live Demo</strong></a>
+  <a href="https://fasteat-master.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
